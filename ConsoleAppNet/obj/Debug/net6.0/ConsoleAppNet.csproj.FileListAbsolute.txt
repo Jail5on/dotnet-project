@@ -1,0 +1,15 @@
+C:\Users\jss91\source\repos\dotnet-project\ConsoleAppNet\bin\Debug\net6.0\ConsoleAppNet.exe
+C:\Users\jss91\source\repos\dotnet-project\ConsoleAppNet\bin\Debug\net6.0\ConsoleAppNet.deps.json
+C:\Users\jss91\source\repos\dotnet-project\ConsoleAppNet\bin\Debug\net6.0\ConsoleAppNet.runtimeconfig.json
+C:\Users\jss91\source\repos\dotnet-project\ConsoleAppNet\bin\Debug\net6.0\ConsoleAppNet.dll
+C:\Users\jss91\source\repos\dotnet-project\ConsoleAppNet\bin\Debug\net6.0\ConsoleAppNet.pdb
+C:\Users\jss91\source\repos\dotnet-project\ConsoleAppNet\obj\Debug\net6.0\ConsoleAppNet.csproj.AssemblyReference.cache
+C:\Users\jss91\source\repos\dotnet-project\ConsoleAppNet\obj\Debug\net6.0\ConsoleAppNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jss91\source\repos\dotnet-project\ConsoleAppNet\obj\Debug\net6.0\ConsoleAppNet.AssemblyInfoInputs.cache
+C:\Users\jss91\source\repos\dotnet-project\ConsoleAppNet\obj\Debug\net6.0\ConsoleAppNet.AssemblyInfo.cs
+C:\Users\jss91\source\repos\dotnet-project\ConsoleAppNet\obj\Debug\net6.0\ConsoleAppNet.csproj.CoreCompileInputs.cache
+C:\Users\jss91\source\repos\dotnet-project\ConsoleAppNet\obj\Debug\net6.0\ConsoleAppNet.dll
+C:\Users\jss91\source\repos\dotnet-project\ConsoleAppNet\obj\Debug\net6.0\refint\ConsoleAppNet.dll
+C:\Users\jss91\source\repos\dotnet-project\ConsoleAppNet\obj\Debug\net6.0\ConsoleAppNet.pdb
+C:\Users\jss91\source\repos\dotnet-project\ConsoleAppNet\obj\Debug\net6.0\ConsoleAppNet.genruntimeconfig.cache
+C:\Users\jss91\source\repos\dotnet-project\ConsoleAppNet\obj\Debug\net6.0\ref\ConsoleAppNet.dll
